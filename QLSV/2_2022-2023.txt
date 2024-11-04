@@ -1,0 +1,10 @@
+BANG DIEM SINH VIEN:
+---------------------------------------------------------------------------------------------------------------------
+Hoc ky: 2 - Nam hoc: 2022-2023
+Ma hoc phan	 Ten hoc phan 	 So tin chi 	Diem Bo Phan 	 Diem GK 	Diem Thi 	 DiemTB
+INES322 	 THDC  	 	 3		6.0 		 7.5 		8.0 		 7.2
+INES333 	 TKMT  	 	 3		4.0 		 4.0 		4.0 		 4.0
+Tong so luong tin chi hien tai: 3
+Diem trung binh he 10 hien tai: 7.20
+Diem trung binh he 4 hien tai: 2.88
+---------------------------------------------------------------------------------------------------------------------

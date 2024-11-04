@@ -1,0 +1,26 @@
+BANG DIEM SINH VIEN:
+Ho va ten: NguyenPhucSy
+Ngay sinh: 27/1/2003
+Lop: 63.CNTT-3
+---------------------------------------------------------------------------------------------------------------------
+Hoc ky: 2 - nam hoc: 2022-2023
+Ma hoc phan	 Ten hoc phan 	 So tin chi 	Diem Bo Phan 	 Diem GK 	Diem Thi 	 DiemTB
+INES322 	 THDC  	 	 3		6.0 		 7.5 		8.0 		 7.2
+INES333 	 TKMT  	 	 3		4.0 		 4.0 		4.0 		 4.0
+Tong so luong tin chi hien tai: 3
+Diem trung binh he 10 hien tai: 7.20
+Diem trung binh he 4 hien tai: 2.88
+---------------------------------------------------------------------------------------------------------------------
+Hoc ky: 1 - nam hoc: 2023-2024
+Ma hoc phan	 Ten hoc phan 	 So tin chi 	Diem Bo Phan 	 Diem GK 	Diem Thi 	 DiemTB
+INES311 	 TTCS  	 	 4		7.5 		 8.0 		9.0 		 8.2
+Tong so luong tin chi hien tai: 4
+Diem trung binh he 10 hien tai: 8.20
+Diem trung binh he 4 hien tai: 3.28
+---------------------------------------------------------------------------------------------------------------------
+THONG KE KET QUA HOC TAP:
+Tong so luong tin chi tich luy: 7
+So mon dat duoc: 2
+So mon con no: 1
+Diem trung binh tich luy he 10: 7.70
+Diem trung binh tich luy he 4: 3.08
